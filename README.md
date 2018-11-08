@@ -1,5 +1,5 @@
-# Project_AT_News_Classification
-Attention Networks for Document Classification
+# Project_HATN_News_Classification
+Hierarchical Attention Networks for Document Classification
 
 
 # Attention Network
