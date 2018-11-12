@@ -1,5 +1,5 @@
-# Project_AT_News_Classification
-Attention Networks for Document Classification
+# Project_HATN_News_Classification
+Hierarchical Attention Networks for Document Classification
 
 
 # Attention Network
@@ -9,4 +9,3 @@ Attention Networks for Document Classification
 1. 논문 : Hierarchical Attention Networks for Document Classification : https://www.cs.cmu.edu/~hovy/papers/16HLT-hierarchical-attention-networks.pdf
 2. Richard's deep learning blog- Text Classification, Part 3 - Hierarchical attention network : https://richliao.github.io/supervised/classification/2016/12/26/textclassifier-HATN/
 3. Github - richliao/textClassifier : https://github.com/richliao/textClassifier/blob/master/textClassifierHATT.py
-4. The Annotated Transformer : http://nlp.seas.harvard.edu/2018/04/03/attention.html
